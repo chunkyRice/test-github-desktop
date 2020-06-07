@@ -27,3 +27,7 @@ Notice that GithUb will not automatically update the view.
 If you're viewing a specific file and you've committed any changes, they will only show after you've reloaded the page.
 
 In the GitHub desktop utility, the changes tab will immediatley show new changes and the history tab will immediately show all commits you've performed.
+
+## Pushing and Pulling
+
+An alternative to committing files is pushing files.
