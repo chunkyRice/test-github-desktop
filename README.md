@@ -30,4 +30,6 @@ In the GitHub desktop utility, the changes tab will immediatley show new changes
 
 ## Pushing and Pulling
 
-An alternative to committing files is pushing files.
+An alternative to synchronizing is pushing files. I have no idea what the difference is.
+This will undoubtedly be explained in the Git manual. I do remember from experimenting with Git in the past, that all the seperate steps and their minute differences were pretty confusing.
+
