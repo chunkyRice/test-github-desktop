@@ -21,3 +21,9 @@ In order to push these commits to the github server, you need to synchronize the
 You click on the synchronize item next to the source control provider to do so.
 Now your committed files will appear, changes and all, on the github server as well
 
+## Synchronization and updates
+
+Notice that GithUb will not automatically update the view.
+If you're viewing a specific file and you've committed any changes, they will only show after you've reloaded the page.
+
+In the GitHub desktop utility, the changes tab will immediatley show new changes and the history tab will immediately show all commits you've performed.
