@@ -29,4 +29,4 @@ In Frankrijk staan nog twee vervolgdelen in de steigers die over andere personag
 
 <b>Romain Renard – </b><i><b>Melvile 1: Het verhaal van Samuel Beauclair</b></i><b>. Roarrr, 136 pagina’s, hardcover. € 27,95.</b>
 
-[ufc-fb-comments url="https://www.facebook.com/9eKunst/posts/892152021249254"]
+[ufc-fb-comments url="https://9ekunst.nl/2020/05/28/cultuur-in-crisis-hoe-een-graphic-novel-over-de-jaren-30-opeens-beangstigend-actueel-werd/"]
