@@ -28,5 +28,3 @@ Lombard heeft in Frankrijk in ieder geval groots ingezet op dit te vervolmaken d
 In Frankrijk staan nog twee vervolgdelen in de steigers die over andere personages zullen gaan. Wat mij betreft mag Roarrr snel met de vertaling aan de slag.
 
 <b>Romain Renard – </b><i><b>Melvile 1: Het verhaal van Samuel Beauclair</b></i><b>. Roarrr, 136 pagina’s, hardcover. € 27,95.</b>
-
-[ufc-fb-comments url="https://9ekunst.nl/2020/05/28/cultuur-in-crisis-hoe-een-graphic-novel-over-de-jaren-30-opeens-beangstigend-actueel-werd/"]
