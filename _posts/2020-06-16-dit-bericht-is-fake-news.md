@@ -9,4 +9,8 @@ permalink: >
 published: true
 post_date: 2020-06-16 23:02:02
 ---
+[pods name="auteur" slug="Stan Lee"]
+Stan Lee
+[/pods]
+
 Dit is een testje om te zien wat Pods kunnen doen.
